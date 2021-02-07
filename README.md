@@ -2,7 +2,7 @@
 <div dir="rtl">
 SDK  پایتون پلت فرم اینرتنت اشیاء پاناک برای ارسال اطلاعات (اطلاعات سنسورها) و دریافت دستور(وضعیت رله‌ها) توسط دستگاه‌ها به پلت فرم پاناک با زبان برنامه نویسی پایتون
   و تکنولوژی میکروپایتون است.<br/> 
-<a href="https://docs.micropython.org/en/latest/">https://docs.micropython.org/en/latest/</a>
+<a href="https://docs.micropython.org/en/latest/">https://docs.micropython.org/en/latest/</a><br/>
 برای استفاده از پلتفرم ابنترنت اشیاء پاناک باید ابتدا در آدرس    
 <a href="https://paanaak-cloud.ir">https://paanaak-cloud.ir</a>
 ثبتنام کنید و دستگاه مورد نظر خود را بسازید و سنسورهای آنرا تعریف کنید. پس از آن میتوانید با استفاده از کلید خصوصی دستگاه خود از SDK استفاده کنید.
