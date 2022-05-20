@@ -4,7 +4,7 @@ SDK  پایتون پلت فرم اینرتنت اشیاء پاناک برای ا
   و تکنولوژی میکروپایتون است.<br/> 
 <a href="https://docs.micropython.org/en/latest/">https://docs.micropython.org/en/latest/</a><br/>
 برای استفاده از پلتفرم ابنترنت اشیاء پاناک باید ابتدا در آدرس    
-<a href="https://panel.paanaak.net">https://paanaak-cloud.ir</a>
+<a href="https://panel.paanaak.net">https://panel.paanaak.net</a>
 ثبتنام کنید و دستگاه مورد نظر خود را بسازید و سنسورهای آنرا تعریف کنید. پس از آن میتوانید با استفاده از کلید خصوصی دستگاه خود از SDK استفاده کنید.
 پلت فرم از HTTPS و HTTP پشتیبانی می‌کند اما توصیه جدی ما استفاده از HTTPS است
 <hr/>
