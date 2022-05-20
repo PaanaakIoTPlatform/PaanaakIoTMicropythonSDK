@@ -3,14 +3,14 @@ import urequests as requests
 
 class PaanaakDevice(object):
     """
-    A class to provide request handlers to https://paanaak-cloud.ir API
+    A class to provide request handlers to https://api.paanaak.net API
     """
     def __init__(self, secret_key: str):
         """
         Args:
             secret_key(str): an id for each device that you create in the website would be accessible in the panel
         """
-        self.constant_url = 'https://paanaak-cloud.ir/api/Device/DeviceCall?='
+        self.constant_url = 'https://api.paanaak.net/api/Device/DeviceCall?='
         self.secret_key = secret_key
         self.flags = {'too many request': False, 'requests limit': False}
         self.__valid_sensor_types = {'str': str(), 'float': float(), 'bool': bool()}
